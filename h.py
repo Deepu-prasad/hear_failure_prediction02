@@ -152,3 +152,4 @@ if st.button("Predict"):
         st.error(f"⚠️ High Risk of Heart Failure (Confidence: {probability:.2%})")
     else:
         st.success(f"✅ Low Risk of Heart Failure (Confidence: {probability:.2%})")
+# hear_failure_prediction02
